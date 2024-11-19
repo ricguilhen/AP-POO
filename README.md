@@ -42,6 +42,6 @@ Mudar Prioridade em: "/task/priority/{id}" (so colocar o numero do Id da Task qu
 
 Ver todas as tarefas em: "/task/get"
 
-Filtrar por Status em: "/task/get/filterstatus/{status}" (onde tem "status" coloque 1 para A Fazer, 2 para Em Progresso e 3 para Concluido)
+Filtrar por Status ordenado por prioridade em: "/task/get/filterstatus/{status}" (onde tem "status" coloque 1 para A Fazer, 2 para Em Progresso e 3 para Concluido)
 
 Filtrar por Prioridade em: "/task/get/filterstatus/{prioridade}" (onde tem "prioridade" coloque 1 para Baixa, 2 para Media e 3 para Alta)
